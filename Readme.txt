@@ -11,3 +11,5 @@ Push : Now we are making changes in the local repo and pushing it to remote repo
 	 And worked!
 
 this line added in "local-branch"
+
+merging didn't happen properly?
