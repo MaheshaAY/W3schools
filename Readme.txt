@@ -20,3 +20,4 @@ this line again from branch - 1
 
 ok let's create some conflict now.
 
+let's add somthings regards branching and merging
