@@ -16,4 +16,7 @@ merging didn't happen properly?
 
 from branch - 1
 
+this line again from branch - 1
+
 ok let's create some conflict now.
+
