@@ -12,4 +12,6 @@ Push : Now we are making changes in the local repo and pushing it to remote repo
 
 this line added in "local-branch"
 
-merging didn't happen properly?
+merging didn't happen properly?  
+
+from branch - 1
