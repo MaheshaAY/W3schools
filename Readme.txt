@@ -15,3 +15,5 @@ this line added in "local-branch"
 merging didn't happen properly?  
 
 from branch - 1
+
+this line again from branch - 1
